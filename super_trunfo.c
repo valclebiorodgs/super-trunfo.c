@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <locale.h>
 
+// Primeiro desafio de Introdução a Programação em C:
+
 int main(){
 
     char codigo_carta[10], codigo_carta02[10];
