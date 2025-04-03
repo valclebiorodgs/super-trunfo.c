@@ -1,6 +1,6 @@
-Super Trunfo - Cidades do Brasil 🃏🌆
+Super Trunfo Ultima atualização Super Trunfo - Cidades do Brasil 🃏🌆
 
-Este projeto é uma versão interativa do jogo Super Trunfo, desenvolvido em linguagem C, onde duas cartas representando cidades brasileiras são comparadas com base em atributos definidos pelo jogador.
+Este projeto é uma versão interativa do jogo Super Trunfo, desenvolvida em linguagem C, onde duas cartas representando cidades brasileiras são comparadas com base em atributos definidos pelo jogador.
 
 📋 Funcionalidades
 
@@ -26,11 +26,11 @@ Nome das cidades
 
 Valor de cada atributo
 
-Carta vencedora ou empate
+Carta de conquista ou empate
 
 📌 Como executar
 
-Compile o programa:
+Compilar o programa:
 
 gcc super_trunfo.c -o super_trunfo
 
@@ -48,18 +48,9 @@ Exceção: na densidade populacional, vence a menor.
 
 💡 Exemplo de uso
 
-Escolha um atributo para comparar:
-1 - Populacao
-2 - Area
-3 - PIB
-4 - Pontos Turisticos
-5 - Densidade Populacional (vence o menor)
-Opcao: 5
+Escolha um atributo para comparar: 1 - População 2 - Área 3 - PIB 4 - Pontos Turísticos 5 - Densidade Populacional (vence o menor) Opção: 5
 
-Comparacao de cartas (Atributo: Densidade Populacional)
-Carta 1 - Fortaleza (CE): 2000.50
-Carta 2 - Curitiba (PR): 1800.20
-Resultado: Carta 2 (Curitiba) venceu!
+Comparação de cartas (Atributo: Densidade Populacional) Carta 1 - Fortaleza (CE): 2000,50 Carta 2 - Curitiba (PR): 1800,20 Resultado: Carta 2 (Curitiba) venceu!
 
 📁 Estrutura do projeto
 
@@ -69,7 +60,7 @@ README.md – Documentação do projeto.
 
 🚀 Possíveis melhorias futuras
 
-Suporte a múltiplas cartas.
+Suporta várias cartas.
 
 Sistema de pontuação.
 
